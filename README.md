@@ -1,4 +1,5 @@
 # SpaceX-Falcon9-Success-Prediction
+ In this project we will predict if the Spacex Falcon 9 first stage will land successfully. Therefore if we can determine if the first stage will land, we can determine the cost of a launch.
 
 - This is the final project of IBM Data Science Professional Certification Program 
 - In this Project we need to complete following tasks
