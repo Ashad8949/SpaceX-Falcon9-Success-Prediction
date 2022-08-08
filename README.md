@@ -8,6 +8,7 @@
   - Data Wrangling
   - Exploratory Analysis using Pandas and Matplotlib
   - Exploratory Analysis using SQL
+  - Build an Interactive Dashboard with Folium
   - Build an Interactive Dashboard with Plotly Dash
   - Complete the Machine Learning Prediction
   - Present Your Data-Driven Insights
